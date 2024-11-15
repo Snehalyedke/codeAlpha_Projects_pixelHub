@@ -28,11 +28,11 @@
 }
 
 .logo{
-    /* background-image:url("https://m.media-amazon.com/images/I/61IlupYtztL._SX1500_.jpg;") */
+    /* background-image:url("https://m.media-amazon.com/images/I/61IlupYtztL._SX1500_.jpg;")
     background-size: cover;
-    background-image:url("Amazon-logo2.jpeg");
+    background-image:url("Amazon-logo2.jpeg"); */
     height:50px;
-    width:100px;
+    width:200px;
 } 
 
 /** Box 2 **/
@@ -142,10 +142,16 @@ span{
 .para{
     border: 1.5px solid transparent;
     padding: 10px;
+    color: white;
 }
 
 .para:hover{
       border: 1.5px solid white;
+}
+
+.anchor{
+    color: white;
+    text-decoration: none;
 }
 
 .panel-ops {
